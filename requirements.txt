@@ -8,3 +8,5 @@ tgcrypto
 async-eval==0.1.11
 python-dotenv[cli]
 python-dotenv
+flask
+gunicorn
